@@ -1,0 +1,2 @@
+# AIFAN
+My first AI
